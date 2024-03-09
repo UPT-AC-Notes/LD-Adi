@@ -63,6 +63,7 @@ endmodule
 
 - To run the simulation:
 	- Library > Work > ``and_gate_tb`` > Simulate
+		- If 'Library' is not present click View > Library
 	- Right click on ``and_gate_tb`` inside ``sim view``, and click ``add wave``
 	- Besides ``100ns``, there's a Run button.
 		- You can change the time frame to ``1000ns`` to see a wider simulation

@@ -114,8 +114,9 @@
 	- ``<=`` (less than or equal to): is a non-blocking operation that executes at ``POSEDGE CLK`` (when the CPU clock is at the top of the wave)
 	- ``=`` : is a blocking operation
 	
-- Exercise 1 - Replicate and simulate the following circuit in ``Verilog``
-![[Lab2Ex1.png]]
+## Exercise 1 - Majority Voter with 2 inputs
+- Replicate and simulate the following circuit in ``Verilog``
+![[Majority_Voter_2Inputs.png]]
 
 - ``ex1.v``
 ```Verilog
