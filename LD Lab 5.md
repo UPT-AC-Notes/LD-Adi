@@ -39,7 +39,7 @@ $m_{i}^{n}=\sum \left( 1,2,4,5\right) =m\left( 1,2,4,5\right) =m_{1}^{3}+m_{2}^{
 - The same K-MAP can be drawn as:
 ![[Lab5Ex1b.png]]
 - The K-MAP above generates the function ``F = A'BC' + AB' + CB'``
-- !!! Notice that the K-MAP can wrap around its corners.
+- !!! Notice that the K-MAP can wrap around its corners. This is because values there are adjacent.
 
 
 ## Minterms with 4 variables
